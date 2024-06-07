@@ -1,2 +1,11 @@
 # Hospital_Management_System
-This is my DBMS project
+
+This is a DBMS project for Hospital management system 
+
+# Technologies used
+
+DBever,
+Flask,
+PostgreSQL,
+HTML,CSS and Bootstrap
+
